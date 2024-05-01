@@ -1,0 +1,220 @@
+[KasrArmor X2AbilityTemplate]
+LocFriendlyName="Броня Касркина"
+LocLongDescription="Получите 1 броню и иммунитет к огню и яду."
+LocHelpText="Получите 1 броню и иммунитет к огню и яду."
+LocFlyOverText="Броня Касркина"
+LocPromotionPopupText="<Bullet/> <br/>"
+
+[KasrKrak X2AbilityTemplate]
+LocFriendlyName="Крак-гранаты"
+LocLongDescription="Гранаты теперь снимают дополнительно 1 броню и наносят на 1 урона больше."
+LocHelpText="Гранаты теперь снимают дополнительно 1 броню и наносят на 1 урона больше."
+LocFlyOverText="Крак-гранаты"
+LocPromotionPopupText="<Bullet/>Гранаты теперь снимают дополнительно 1 броню и наносят на 1 урона больше.<br/>"
+
+[KasrScionBuff X2AbilityTemplate]
+LocFriendlyName="Подготовка Сайона"
+LocLongDescription="Реакционные выстрелы могут быть критическими. Также получите 1 мобильность и 5 прицеливания."
+LocHelpText="Реакционные выстрелы могут быть критическими. Также получите 1 мобильность и 5 прицеливания."
+LocFlyOverText="Подготовка Сайона"
+LocPromotionPopupText="<Bullet/> <br/>"
+
+[KasrOvercharge X2AbilityTemplate]
+LocFriendlyName="Перегрузка"
+LocLongDescription="Выстрелите, гарантированно нанеся критический урон, если попадете, и пробив Ability:OVERCHARGE_ARMORPIERCE/ брони. <font color='#fdce2b'>Ability:OVERCHARGE_COOLDOWN</font> ходов до перезарядки. <br/>Специальные выстрелы гвардейца перегревают его оружие."
+LocHelpText="Выстрелите, гарантированно нанеся критический урон и пробив Ability:OVERCHARGE_ARMORPIERCE/ брони."
+LocFlyOverText="Перегрузка"
+LocPromotionPopupText="<Bullet/>Выстрел, гарантированно наносящий критический урон.<br/><Bullet/>Пробивает Ability:OVERCHARGE_ARMORPIERCE/ брони.<br/> <Bullet/><font color='#fdce2b'>Ability:OVERCHARGE_COOLDOWN/</font> ходов до перезарядки.<br/><Bullet/>Не заканчивает ход. <br/><Bullet/><font color='#cc2424'>Специальные выстрелы гвардейца (Горячий выстрел, Перегрузка и Плазменная пушка) перегревают его оружие, приводя к снижению на 2 хода Ability:GETSHOT_DEFENSE_PENALTY/ защиты и Ability:GETSHOT_AIM_PENALTY/ прицеливания.</font><br/>"
+
+[KasrHotshot X2AbilityTemplate]
+LocFriendlyName="Горячий выстрел"
+LocLongDescription="Выстрелите, получив Ability:HOTSHOT_BONUSAIM% бонус к точности и пробив Ability:HOTSHOT_ARMORPIERCE/ брони. <font color='#fdce2b'>Ability:HOTSHOT_COOLDOWN/</font> ходов до перезарядки. <br/>Специальные выстрелы гвардейца перегревают его оружие."
+LocHelpText="Выстрелите, получив Ability:HOTSHOT_BONUSAIM/% бонус к точности и пробив Ability:HOTSHOT_ARMORPIERCE/ брони."
+LocFlyOverText="Горячий выстрел"
+LocPromotionPopupText="<Bullet/>Выстрел с Ability:HOTSHOT_BONUSAIM/% бонусом к точности<br/><Bullet/>Пробивает Ability:HOTSHOT_ARMORPIERCE/ брони. <br/><Bullet/><font color='#fdce2b'>Ability:HOTSHOT_COOLDOWN</font> ходов до перезарядки.<br/><Bullet/>Не заканчивает ход. <br/><Bullet/><font color='#cc2424'>Специальные выстрелы гвардейца (Горячий выстрел, Перегрузка и Плазменная пушка) перегревают его оружие, приводя к снижению на 2 хода Ability:GETSHOT_DEFENSE_PENALTY/ защиты и Ability:GETSHOT_AIM_PENALTY/ прицеливания.</font><br/>"
+
+[KasrMeltaGun X2AbilityTemplate]
+LocFriendlyName="Плазменная пушка"
+LocLongDescription="Выстрелите, нанеся двойной урон механическим целям и сняв Ability:MELTAGUN_SHRED брони. <font color='#fdce2b'>Ability:MELTAGUN_COOLDOWN/</font> ходов до перезарядки. <br/>Специальные выстрелы гвардейца перегревают его оружие."
+LocHelpText="Выстрелите, нанеся двойной урон механическим целям и сняв Ability:MELTAGUN_SHRED/ брони."
+LocFlyOverText="Плазменная пушка"
+LocPromotionPopupText="<Bullet/>Выстрел, наносящий двойной урон механическим целям.<br/><Bullet/>Снимает Ability:MELTAGUN_SHRED/ брони.<br/><Bullet/>Ability:MELTAGUN_COOLDOWN/</font> ходов до перезарядки.<br/><Bullet/>Не заканчивает ход. <br/><Bullet/><font color='#cc2424'>Специальные выстрелы гвардейца (Горячий выстрел, Перегрузка и Плазменная пушка) перегревают его оружие, приводя к снижению на 2 хода Ability:GETSHOT_DEFENSE_PENALTY/ защиты и Ability:GETSHOT_AIM_PENALTY/ прицеливания.</font><br/>"
+
+[BattleOrdinance X2AbilityTemplate]
+LocFriendlyName="Боевые Припасы"
+LocLongDescription="Получите вторую зарядку вашей экипированной гранаты или сканера боя."
+LocHelpText="Получите вторую зарядку вашей экипированной гранаты или сканера боя."
+LocFlyOverText="Боевые Припасы"
+LocPromotionPopupText="<Bullet/> <br/>"
+
+[KasrBayonet X2AbilityTemplate]
+LocFriendlyName="Мементо Мори"
+LocLongDescription="Смело бросьтесь на врага, нанеся небольшой урон и оглушив его, затем произведите выстрел с близкого расстояния. Эта способность перезаряжается через 4 хода или если вы получите урон."
+LocHelpText="Смело бросьтесь на врага, нанеся небольшой урон и оглушив его, затем произведите выстрел с близкого расстояния. Эта способность перезаряжается через 4 хода или если вы получите урон."
+LocFlyOverText="Мементо Мори"
+LocPromotionPopupText="<Bullet/><br/>"
+
+[KasrOptics X2AbilityTemplate]
+LocFriendlyName="Интегрированная Оптика"
+LocLongDescription="Выстрелите, нанеся двойной урон механическим целям и сняв 3 брони."
+LocHelpText="Выстрелите, нанеся двойной урон механическим целям и сняв 3 брони."
+LocFlyOverText="Интегрированная Оптика"
+LocPromotionPopupText="<Bullet/> <br/>"
+
+[KasrKrak X2AbilityTemplate]
+LocFriendlyName="Крак-гранаты"
+LocLongDescription="Повреждающие гранаты наносят на 1 урона больше и снимают на 1 брони больше."
+LocHelpText="Повреждающие гранаты наносят на 1 урона больше и снимают на 1 брони больше."
+LocFlyOverText="Крак-гранаты"
+LocPromotionPopupText="<Bullet/>Гранаты теперь снимают 1 дополнительную броню и наносят на 1 урона больше.<br/>"
+
+[KasrBreach X2AbilityTemplate]
+LocFriendlyName="Штурм и Очистка"
+LocLongDescription="Активируйте, чтобы ваша следующая бросаемая наступательная граната не стоила действия."
+LocHelpText="Активируйте, чтобы ваша следующая бросаемая наступательная граната не стоила действия."
+LocFlyOverText="Штурм и Очистка"
+LocPromotionPopupText="<Bullet/>Ослепляющие и дымовые гранаты не считаются наступательными для этого умения.<br/>"
+
+[KasrLethalShot X2AbilityTemplate]
+LocFriendlyName="Улучшенные Патроны"
+LocLongDescription="Касркины наносят на 1 урона больше своим основным оружием."
+LocHelpText="Касркины наносят на 1 урона больше своим основным оружием."
+LocFlyOverText="Улучшенные Патроны"
+
+[KasrLethalShot X2SoldierAbilityUnlockTemplate]
+DisplayName="Касркины: Улучшенные Патроны"
+Summary="Касркины наносят на 1 урона больше своим основным оружием."
+
+[KasrFuckingshittyassperktooksogoddamnlongwhenitwasasimplefixfuck X2AbilityTemplate]
+LocFriendlyName="Интегрированная Оптика"
+LocLongDescription="Получите 20 прицеливания против врагов в укрытии."
+LocHelpText="Получите 20 прицеливания против врагов в укрытии"
+LocFlyOverText="Интегрированная Оптика"
+LocPromotionPopupText="<Bullet/>К черту этот перк и все, что он представляет.<br/>"
+
+[XMBExample_Focus X2AbilityTemplate]
+LocFriendlyName="Быстрые Рефлексы"
+LocLongDescription="Ваш первый выстрел в режиме ожидания в каждом ходу всегда попадает."
+LocHelpText="Ваш первый выстрел в режиме ожидания в каждом ходу всегда попадает."
+LocFlyOverText="Быстрые Рефлексы"
+LocPromotionPopupText="<Bullet/>Я быстр, а ты мертв.<br/>"
+
+[KasrHot X2AbilityTemplate]
+LocFriendlyName="Перегрев"
+LocLongDescription="Специальные выстрелы Касркинов перегревают их оружие, снижая защиту на -10 и прицеливание на -5 в течение 2 ходов."
+LocHelpText="Специальные выстрелы Касркинов перегревают их оружие, снижая защиту на -10 и прицеливание на -5 в течение 2 ходов."
+LocFlyOverText="Перегрев!"
+LocPromotionPopupText="<Bullet/>Специальные выстрелы Касркинов перегревают их оружие, снижая защиту на -10 и прицеливание на -5 в течение 2 ходов.<br/>"
+
+[GuardLethalShot X2AbilityTemplate]
+LocFriendlyName="Скользящие Выстрелы"
+LocLongDescription="Ваши атаки всегда наносят хотя бы 1 урон."
+LocHelpText="Ваши атаки всегда наносят хотя бы 1 урон."
+LocFlyOverText="Сосредоточенная Подготовка"
+LocPromotionPopupText="<Bullet/> Статистически кто-то должен был уже попасть...<br/>"
+
+Вот перевод указанного текста на русский язык:
+
+[GuardKrak X2AbilityTemplate]
+LocFriendlyName="Минное поле"
+LocLongDescription="Получите 1 бесплатную мину ближнего действия и дополнительную мину за каждую установленную мину ближнего действия. Этот бонус суммируется с полным комплектом."
+LocFlyOverText="Минное поле"
+LocPromotionPopupText="<Bullet/>Большие взрывы и получите один бесплатный направленный заряд.<br/>"
+
+[GuardDeathWatch X2AbilityTemplate]
+LocFriendlyName="На страже"
+LocLongDescription="Опытные инженеры-осадники очень бдительны, получая бонусы к защите, когда они сталкиваются с большим количеством врагов, и производят реактивные выстрелы по любым, кто подходит слишком близко."
+LocHelpText="Опытные инженеры-осадники очень бдительны, получая бонусы к защите, когда они сталкиваются с большим количеством врагов, и производят реактивные выстрелы по любым, кто подходит слишком близко."
+LocFlyOverText="На страже"
+LocPromotionPopupText="<Bullet/>Стреляйте по любому врагу, перемещающемуся в пределах 10 клеток. Получайте 5 бонусов к защите за каждого замеченного врага, до 25.<br/><Bullet/>Держите линию, черт возьми!<br/>"
+
+[GuardKasrBuff X2AbilityTemplate]
+LocFriendlyName="Выносливость"
+LocLongDescription="Получите 5 бонусов к защите, уклонению и воле, а также 2 единицы здоровья."
+LocHelpText="Получите 5 бонусов к защите, уклонению и воле, а также 2 единицы здоровья."
+LocFlyOverText="Выносливость"
+LocPromotionPopupText="<Bullet/>Примите это, чтобы меньше умирать.<br/>"
+
+[GuardScionBuff X2AbilityTemplate]
+LocFriendlyName="Спутниковое наведение"
+LocLongDescription="Получите 5 единиц прицеливания и способность видеть цели на дальние расстояния."
+LocHelpText="Получите 5 единиц прицеливания и способность видеть цели на дальние расстояния."
+LocFlyOverText="Спутниковое наведение"
+LocPromotionPopupText="<Bullet/>Не спрашивайте, откуда берутся эти спутники. Вы не хотите знать.<br/>"
+
+[GuardFervor X2AbilityTemplate]
+LocFriendlyName="Рвение"
+LocLongDescription="Получите дополнительное действие за счет <Ability:FERVOR_MOBILITY_PENALTY/> мобильности."
+LocHelpText="Получите дополнительное действие за счет <Ability:FERVOR_MOBILITY_PENALTY/> мобильности."
+LocFlyOverText="Рвение"
+LocPromotionPopupText="<Bullet/>+1 действие каждый ход<br/><Bullet/><Ability:FERVOR_MOBILITY_PENALTY/> мобильность<br/>"
+
+[FullKit X2AbilityTemplate]
+LocFriendlyName="Полный комплект"
+LocLongDescription="Получите одну дополнительную гранату за каждую экипированную гранату."
+LocHelpText="Получите одну дополнительную гранату за каждую экипированную гранату."
+LocFlyOverText="Полный комплект"
+LocPromotion
+
+PopupText="<Bullet/> Ваше знание анатомии позволяет наносить больше урона. Наносите +1 дополнительный урон при атаках. Ваши атаки часто задевают врагов, даже если они могли бы промахнуться.<br/>"
+
+[GuardChainShot X2AbilityTemplate]
+LocFriendlyName="Огненный залп"
+LocLongDescription="Сделайте выстрел с понижением шанса попадания на 10. Если попадете, сделайте второй выстрел с понижением шанса попадания на 5."
+LocHelpText="Сделайте выстрел с понижением шанса попадания на 10. Если попадете, сделайте второй выстрел с понижением шанса попадания на 5."
+LocFlyOverText="Огненный залп"
+LocPromotionPopupText="<Bullet/> Стреляйте, пока я не скажу остановиться!<br/>"
+
+[GuardPistol X2AbilityTemplate]
+LocFriendlyName="Тренировка с пистолетом"
+LocLongDescription="Правильная тренировка значительно облегчает быстрое извлечение и стрельбу из пистолета. Получите быстрое наведение и быстрые руки."
+LocHelpText="Правильная тренировка значительно облегчает быстрое извлечение и стрельбу из пистолета. Получите быстрое наведение и быстрые руки."
+LocFlyOverText="Огненный залп"
+LocPromotionPopupText="<Bullet/>Правильная тренировка — это разница между гвардейцем, который возвращается домой, и гвардейцем, который становится едой.<br/>"
+
+[GuardGear X2AbilityTemplate]
+LocFriendlyName="Улучшенное выживание"
+LocLongDescription="Гвардейцы получают иммунитет к огню и газу."
+LocHelpText="Гвардейцы получают иммунитет к огню и газу."
+LocFlyOverText="Улучшенное выживание"
+
+[GuardGear X2SoldierAbilityUnlockTemplate]
+DisplayName="Гвардеец: Улучшенное выживание"
+Summary="Гвардейцы получают иммунитет к огню и газу."
+
+[GuardInthezone X2AbilityTemplate]
+LocFriendlyName="В зоне"
+LocLongDescription="Активируйте, чтобы убийства из основного оружия возвращали очки действий. Перезарядка 4 хода."
+LocHelpText="Активируйте, чтобы убийства из основного оружия возвращали очки действий. Перезарядка 4 хода."
+LocFlyOverText="В зоне"
+LocPromotionPopupText="<Bullet/>Это буквально переименованный Serial, чтобы лучше работать с тренировочной площадкой.<br/>"
+
+[GuardRapidFire X2AbilityTemplate]
+LocFriendlyName="Огненный залп"
+LocLongDescription="Сделайте 2 выстрела с понижением меткости на 15."
+LocHelpText="Сделайте 2 выстрела с понижением меткости на 15."
+LocFlyOverText="Огненный залп"
+LocPromotionPopupText="<Bullet/>Это буквально переименованный Rapid Fire, чтобы лучше работать с тренировочной площадкой.<br/>"
+
+[GuardRunAndGun X2AbilityTemplate]
+LocFriendlyName="Адреналиновый рывок"
+LocLongDescription="Получите дополнительную точку действия. Перезарядка 4 хода"
+LocHelpText
+
+="Получите дополнительную точку действия. Перезарядка 4 хода"
+LocFlyOverText="Тренировки Fenguard"
+LocPromotionPopupText="<Bullet/>Это почти буквально переименованный Run and Gun, чтобы лучше работать с тренировочной площадкой.<br/>"
+
+[GuardSquaddieDummy X2AbilityTemplate]
+LocFriendlyName="Всесторонний"
+LocLongDescription="Гвардейцы обучены обращению с различным оружием, включая дробовики, снайперские винтовки и штурмовые винтовки."
+LocHelpText="Гвардейцы обучены обращению с различным оружием, включая дробовики, снайперские винтовки и штурмовые винтовки."
+LocFlyOverText="Всесторонний"
+LocPromotionPopupText="<Bullet/>Это просто дамми перк. Он ничего не делает, кроме как красиво выглядит.<br/>"
+
+[GuardTacticalSense X2AbilityTemplate]
+LocFriendlyName="Бдительность"
+LocLongDescription="Получите 5 бонусов к защите за каждого видимого врага, до 25."
+LocHelpText="Получите 5 бонусов к защите за каждого видимого врага, до 25."
+LocFlyOverText="Бдительность"
+LocPromotionPopupText="<Bullet/> Получите 5 бонусов к защите за каждого видимого врага, до 25.<br/>"
